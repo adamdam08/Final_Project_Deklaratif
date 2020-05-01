@@ -1,3 +1,5 @@
+Link Presentasi : https://youtu.be/OByoe4g42_c
+
 CARA MENJALANKAN PROGRAM : 
 Klik kanan THIS PC -> Properties -> Advanced System Settings
 Pilih Environment Variables
